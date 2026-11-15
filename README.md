@@ -1,16 +1,17 @@
-# React + Vite
+# Nama: Gabrielle Christin Gilberyn Ginting
+# NIM: 251401047
+# Lab: 4
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Screenshot hasil implementasi aplikasi:
 
-Currently, two official plugins are available:
+### 1. Halaman Utama (To-Do List)
+![To-Do List](./src/screenshots/to-do-list.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 2. Form Tambah Todo
+![Tambah Todo](./src/screenshots/tambah-to-do.png)
 
-## React Compiler
+### 3. Halaman Detail Todo
+![Detail Todo](./src/screenshots/detail-to-do.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 4. Form Update Todo
+![Update Todo](./src/screenshots/update-to-do.png)
